@@ -1,0 +1,90 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="3" />
+      <entry action="$Cut" count="3" />
+      <entry action="$Delete" count="10" />
+      <entry action="$Paste" count="4" />
+      <entry action="$Redo" count="3" />
+      <entry action="$SelectAll" count="13" />
+      <entry action="$Undo" count="118" />
+      <entry action="Android.RunAndroidAvdManager" count="14" />
+      <entry action="Android.RunAndroidSdkManager" count="12" />
+      <entry action="AndroidConnectDebuggerAction" count="1" />
+      <entry action="ChangesView.NewChangeList" count="1" />
+      <entry action="CheckForUpdate" count="1" />
+      <entry action="CheckinFiles" count="2" />
+      <entry action="CheckinProject" count="11" />
+      <entry action="CleanGradleProject" count="1" />
+      <entry action="CloseProject" count="4" />
+      <entry action="CodeCompletion" count="46" />
+      <entry action="CollapseSelection" count="6" />
+      <entry action="CommentByLineComment" count="32" />
+      <entry action="CompareTwoFiles" count="1" />
+      <entry action="ContextHelp" count="1" />
+      <entry action="Debug" count="17" />
+      <entry action="DeveloperServices.Firebase" count="6" />
+      <entry action="DialogOkAction Enter" count="68" />
+      <entry action="EditorBackSpace" count="808" />
+      <entry action="EditorChooseLookupItem" count="265" />
+      <entry action="EditorCopy" count="87" />
+      <entry action="EditorCut" count="18" />
+      <entry action="EditorDelete" count="264" />
+      <entry action="EditorDown" count="2198" />
+      <entry action="EditorDownWithSelection" count="1" />
+      <entry action="EditorEnter" count="272" />
+      <entry action="EditorLeft" count="529" />
+      <entry action="EditorLeftWithSelection" count="13" />
+      <entry action="EditorLineEnd" count="19" />
+      <entry action="EditorLineEndWithSelection" count="17" />
+      <entry action="EditorLineStart" count="5" />
+      <entry action="EditorLineStartWithSelection" count="8" />
+      <entry action="EditorPageDownWithSelection" count="24" />
+      <entry action="EditorPageUp" count="24" />
+      <entry action="EditorPaste" count="160" />
+      <entry action="EditorRight" count="1114" />
+      <entry action="EditorRightWithSelection" count="68" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorStartNewLine" count="10" />
+      <entry action="EditorTab" count="3" />
+      <entry action="EditorUp" count="722" />
+      <entry action="EditorUpWithSelection" count="2" />
+      <entry action="FileChooser.NewFolder" count="2" />
+      <entry action="Find" count="4" />
+      <entry action="FindPrevious" count="3" />
+      <entry action="Generate" count="13" />
+      <entry action="Git.Add" count="3" />
+      <entry action="Git.Configure.Remotes" count="2" />
+      <entry action="Git.Init" count="4" />
+      <entry action="Git.Uncommit" count="1" />
+      <entry action="GoogleLogin.LoginService" count="3" />
+      <entry action="GotoNextError" count="1" />
+      <entry action="Gradle.ToggleOfflineAction" count="1" />
+      <entry action="InvalidateCaches" count="7" />
+      <entry action="MakeGradleProject" count="31" />
+      <entry action="NewClass" count="27" />
+      <entry action="NewDir" count="18" />
+      <entry action="NewFile" count="6" />
+      <entry action="NewProject" count="10" />
+      <entry action="NewProjectFromVCS.Git" count="1" />
+      <entry action="OpenFile" count="7" />
+      <entry action="ReformatCode" count="8" />
+      <entry action="RenameElement" count="5" />
+      <entry action="Rerun" count="1" />
+      <entry action="Resume" count="5" />
+      <entry action="Run" count="163" />
+      <entry action="SaveAll" count="224" />
+      <entry action="ShowIntentionActions" count="78" />
+      <entry action="ShowSettings" count="2" />
+      <entry action="StepInto" count="7" />
+      <entry action="StepOver" count="90" />
+      <entry action="Stop" count="9" />
+      <entry action="ToggleLineBreakpoint" count="49" />
+      <entry action="Vcs.UpdateProject" count="2" />
+      <entry action="template.create.ActivityBasic Activity" count="4" />
+      <entry action="template.create.ActivityEmpty Activity" count="8" />
+      <entry action="template.create.ActivityFragment + ViewModel" count="1" />
+      <entry action="template.create.ActivityLogin Activity" count="2" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" fir
